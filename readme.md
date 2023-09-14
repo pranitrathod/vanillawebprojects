@@ -30,3 +30,26 @@ This is the main repository for all of the projects in the course.
 
 
 NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do appreciate people trying to make some things prettier or adding new features, we are only accepting pull requests and looking at issues for bug fixes so that the code stays inline with the course
+
+
+
+ Form Validator | Intro Project
+🌴 Movie Seat Booking | DOM & Local Storage
+🌴 Custom Video Player | HTML5 Video API
+🌴 Exchange Rate Calculator | Fetch & JSON Intro
+🌴 DOM Array Methods | forEach,map, filter, sort, reduce
+🌴 Menu Slider & Modal | DOM & CSS
+🌴 Hangman Game | DOM, SVG, Events
+🌴 Meal Finder | Fetch & MealDB API
+🌴 Expense Tracker | Array Methods & Local Storage
+🌴 Music Player | HTML5 Audio API
+🌴 Infinite Scroll Posts | Fetch, Async/Await, CSS Loader
+🌴 Typing Game | DOM, Intervals, Events
+🌴 Speech Text Reader | Speech Synthesis
+🌴 Memory Cards | CSS Effects, Local Storage
+🌴 Lyrics Search App | Fetch, Pagination, Lyrics.ovh API
+🌴 Relaxer App | CSS Animations, setTimeout
+🌴 Breakout Game | HTML5 CanvasAPI
+🌴 New Year Countdown | DOM, Date & Time
+🌴 Sortable List | Drag & Drop API
+🌴 Speak Number Guessing Game | Speech Recognition
