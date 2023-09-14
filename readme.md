@@ -33,23 +33,41 @@ NOTE ON PULL REQUESTS: All of these projects are part of the course. While I do 
 
 
 
- Form Validator | Intro Project
+ <b>Form Validator | TAGS Project<br></b>
 🌴 Movie Seat Booking | DOM & Local Storage
+<br>
 🌴 Custom Video Player | HTML5 Video API
+<br>
 🌴 Exchange Rate Calculator | Fetch & JSON Intro
+<br>
 🌴 DOM Array Methods | forEach,map, filter, sort, reduce
+<br>
 🌴 Menu Slider & Modal | DOM & CSS
+<br>
 🌴 Hangman Game | DOM, SVG, Events
+<br>
 🌴 Meal Finder | Fetch & MealDB API
+<br>
 🌴 Expense Tracker | Array Methods & Local Storage
+<br>
 🌴 Music Player | HTML5 Audio API
+<br>
 🌴 Infinite Scroll Posts | Fetch, Async/Await, CSS Loader
+<br>
 🌴 Typing Game | DOM, Intervals, Events
+<br>
 🌴 Speech Text Reader | Speech Synthesis
+<br>
 🌴 Memory Cards | CSS Effects, Local Storage
+<br>
 🌴 Lyrics Search App | Fetch, Pagination, Lyrics.ovh API
+<br>
 🌴 Relaxer App | CSS Animations, setTimeout
+<br>
 🌴 Breakout Game | HTML5 CanvasAPI
+<br>
 🌴 New Year Countdown | DOM, Date & Time
+<br>
 🌴 Sortable List | Drag & Drop API
+<br>
 🌴 Speak Number Guessing Game | Speech Recognition
